@@ -56,11 +56,11 @@ Supporting_Pivot	Contains PivotTables that support dashboard visualizations
 Dashboard	Contains the final interactive sales dashboard
 
 8.  How to Use
-1.	Download or clone this repository.
-2.	Open Sales_Dashboard.xlsx in Microsoft Excel 2016 or later.
-3.	Navigate to the Dashboard worksheet.
-4.	Use the available slicers and timelines to filter the data.
-5.	Explore sales trends, occasion-wise performance, product popularity, and order patterns.
+.	Download or clone this repository.
+.	Open Sales_Dashboard.xlsx in Microsoft Excel 2016 or later.
+.	Navigate to the Dashboard worksheet.
+.	Use the available slicers and timelines to filter the data.
+.	Explore sales trends, occasion-wise performance, product popularity, and order patterns.
 Note: For the best interactive experience, open the workbook in the desktop version of Microsoft Excel.
 
 9.  Business Value
