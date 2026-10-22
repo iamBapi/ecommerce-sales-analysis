@@ -67,8 +67,8 @@ Note: For the best interactive experience, open the workbook in the desktop vers
 This dashboard demonstrates how Excel can be used to turn raw transactional data into actionable insights. It helps identify seasonal demand, evaluate product performance, understand ordering patterns, and support data-driven sales and inventory planning.
 
 🔗 Project Resources
-•	Dataset: view Dataset <a href="https://github.com/iamBapi/ecommerce-sales-analysis/tree/main/data">
-•	Excel Dashboard:view Excel Dashbaord <a href="https://github.com/iamBapi/ecommerce-sales-analysis/tree/main/excel">
-•	GitHub Repository:view Repository <a href="https://github.com/iamBapi/ecommerce-sales-analysis">
+•	Dataset: view Dataset (<a href="https://github.com/iamBapi/ecommerce-sales-analysis/tree/main/data">)
+•	Excel Dashboard:view Excel Dashbaord (<a href="https://github.com/iamBapi/ecommerce-sales-analysis/tree/main/excel">)
+•	GitHub Repository:view Repository (<a href="https://github.com/iamBapi/ecommerce-sales-analysis">)
 
 ⭐ If you find this project useful, consider giving the repository a star!
